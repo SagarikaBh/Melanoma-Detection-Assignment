@@ -23,10 +23,9 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- The class rebalance helped in reducing overfititng of the data and thus the loss is beng reduced but it reduced the Acurracy very low
+- Initially we tried without the Augmentation which created data to over fit at high ratio.
+- Then we introduced dropout and Augmentation which reduced the over fit
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
